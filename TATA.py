@@ -3,7 +3,7 @@
 #ENJOY GUYS
 from os import path
 import os,base64,zlib,pip,urllib
-os.system('xdg-open https://t.me/termux_command_store')
+os.system('xdg-open @Kuneygaab')
 print('\n\033[1;37m SUBSCRIBE OUR CHANNEL...\n It will take some seconds...')
 
 try:
@@ -13,7 +13,7 @@ try:
 except ModuleNotFoundError:
         print('\n Installing missing modules ...')
         os.system('pip install requests futures==2 > /dev/null')
-        os.system('python AKING.py')
+        os.system('python ismacil.py')
 except:pass
         
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana','com.facebook.mlite')
@@ -57,15 +57,14 @@ logo=("""\033[1;37m
    | $$    \$$    $$ \$$    $$
     \$$     \$$$$$$   \$$$$$$
 ----------------------------------------------
- Author    : TERMUX COMMAND STORE 
+ Author    : TERMUX RED HACKERS FROM SOMALI
  Github    : ......
  Facebook  : TCS
- Tool Name : CLONNING
+ Tool Name : RED HACKER
  Type type : FREE
  Version   : 2.0
 ----------------------------------------------
- TERMUX COMMAND STORE FOR TUTORIAL 
- YOU ARE THE BEST TEACHER FOR YOURSELF 🤞
+ TOOLKAN UJEDADISU WAA INAD SI WAX BARASHO AHAN U ISTICMALIN 🤞
 \033[1;37m----------------------------------------------""")
 def linex():
         print('\033[1;37m----------------------------------------------')
@@ -175,7 +174,7 @@ def public():
         try:
                 plist = []
                 try:
-                        ps_limit = int(input(' How many passwords do you want to add ? '))
+                        ps_limit = int(input(' HACERS RED  ? '))
                 except:
                         ps_limit =1
                 linex()
@@ -217,7 +216,7 @@ def menu():
         #       chk()
                 x = ("sex")
                 if x == ("sex"):
-                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] Random number cloning\n [5] Random gmail crack\n [6] WhatsApp Group (join)\n [7] Download Vpn\n [8] How To Use Video\n [0] Exit menu')
+                        print(' [1] File cloning\n [2] Create ids file\n [3] Public cloning\n [4] ISMACIL KUNEY\n [5] Random gmail crack\n [6] WhatsApp Group (join)\n [7] Download Vpn\n [8] How To Use Video\n [0] Exit menu')
                         linex()
                         xd=input(' Choose an option: ')
                         if xd in ['1','01']:
